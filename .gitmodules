@@ -1,0 +1,6 @@
+[submodule "yss"]
+	path = yss
+	url = https://github.com/mymy49/yss
+[submodule "utility"]
+	path = utility
+	url = https://github.com/mymy49/utility
