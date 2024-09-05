@@ -22,7 +22,7 @@ int main(void)
 
 	while(1)
 	{
-//		thread::yield();
+		thread::yield();
 	}
 }
 
