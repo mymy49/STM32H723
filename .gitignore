@@ -1,0 +1,7 @@
+/STM32H723ZG THUMB Debug/
+/STM32H723ZG THUMB Release/
+/Debug/
+/Release/
+*.hzs
+/.settings
+*.launch
